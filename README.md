@@ -23,6 +23,3 @@ It uses **Matrix Factorization with PyTorch embeddings** to learn user and movie
 - **Python**, **PyTorch**, **Pandas**  
 - Runs easily on **Google Colab Free Tier**  
 
----
-
-## 📊 Training Results
